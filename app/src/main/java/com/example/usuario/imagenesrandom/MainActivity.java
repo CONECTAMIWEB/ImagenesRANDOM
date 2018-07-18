@@ -48,11 +48,6 @@ public class MainActivity extends AppCompatActivity
 
         });
 
-        //esto es un comentario
-        //otro comentario
-        // ultimo comentario
-
-
 
     }
 
